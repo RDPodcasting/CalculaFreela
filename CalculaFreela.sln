@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaFreela", "CalculaFreela.csproj", "{D52A7F50-9EB2-4401-8937-3B648405B67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52A7F50-9EB2-4401-8937-3B648405B67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52A7F50-9EB2-4401-8937-3B648405B67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52A7F50-9EB2-4401-8937-3B648405B67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52A7F50-9EB2-4401-8937-3B648405B67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C09908-7588-46B8-B58A-6B9577B6253B}
+	EndGlobalSection
+EndGlobal
